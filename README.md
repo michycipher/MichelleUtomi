@@ -18,8 +18,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Michy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleUtomi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleUtomi&layout=compact&theme=radical)
+![Michy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleUtomi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleUtomi&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelleUtomi&theme=radical)
 
 ---
 
@@ -31,9 +32,9 @@
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 🌐 Portfolio website: https://michycipher.github.io/michelle-portfolio/
+- 💼 [LinkedIn](https://www.linkedin.com/in/michelle-utomi/)  
+- 🐦 [Twitter](https://x.com/am_michelle)  
+- 🌐 [Portfolio website](https://michycipher.github.io/michelle-portfolio/)
 
 ---
 
