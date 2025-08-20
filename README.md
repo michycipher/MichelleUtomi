@@ -33,10 +33,11 @@
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
 - 🐦 [Twitter](https://twitter.com/your-handle)  
-- 🌐 Portfolio website (coming soon 🚧)  
+- 🌐 Portfolio website: https://michycipher.github.io/michelle-portfolio/
 
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichelleUtomi&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=MichelleUtomi&color=blue)
 
 ✨ *“Always learning, always building.”* 🚀
